@@ -1,0 +1,6 @@
+o portfólio deve conter:
+    - sobre mim;
+    - minhas habilidades;
+    - projetos desenvolvidos (portfólio);
+    - Currículo;
+    - contato;
