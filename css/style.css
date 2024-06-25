@@ -41,7 +41,7 @@ nav ul li a {
 }
 
 .home {
-    height: 65vh;
+    height: 75vh;
     width: 100%;
     padding: 0 30px;
     display: flex;
@@ -51,7 +51,9 @@ nav ul li a {
 }
 
 .home .sobreMim {
-    width: 500px;
+    font-size: 1.5rem;
+    height: 400px;
+    width: 600px;
     display: flex;
     flex-direction: column;
     gap: 7px;
@@ -66,7 +68,7 @@ nav ul li a {
 }
 
 .skills {
-    height: 35vh;
+    height: 25vh;
     width: 100%;
     display: flex;
     flex-direction: column;
